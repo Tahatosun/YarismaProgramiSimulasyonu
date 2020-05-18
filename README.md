@@ -1,2 +1,2 @@
 # YarismaProgramiSimulasyonu
-Algoritma ve programlama dersi için yazmış olduğum Yarışma Programlarını simüle eden program
+Algoritma ve programlama dersi için yazmış olduğum yarışma programlarını simüle eden uyuglama
